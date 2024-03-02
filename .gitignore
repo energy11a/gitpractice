@@ -1,4 +1,5 @@
 .idea
- *.iml
+ hello_world.iml
  out
  target
+ exit
